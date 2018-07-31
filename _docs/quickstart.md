@@ -7,7 +7,7 @@ permalink: /docs/quickstart/
 
 ### What is Hashgraph?
 
-Hashgraph is the first asynchronouse byzantine fault tolerant (aBFT) consensus algorithm that results in fair ordering, fast finality, and secure propagation. It is the foundation of the next generation of Distributed Ledger Technology (DLT).
+Hashgraph is the first asynchronous byzantine fault tolerant (aBFT) consensus algorithm that results in fair ordering, fast finality, and secure propagation. It is the foundation of the next generation of Distributed Ledger Technology (DLT).
 
 ### What is the Swirlds Platform?
 

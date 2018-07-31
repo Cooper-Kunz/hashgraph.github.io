@@ -20,7 +20,7 @@ permalink: /docs/installation/
 
 #### Install the latest JCE Unlimited Policy for Java 8
 
-* Visit ??? to get the latest JCE Unlimited Policy for Java 8
+* Get the latest JCE Unlimited Policy for Java 8
 * Unzip the downloaded JCE file
 * Copy both the `US_export_policy.jar` and the `local_policy.jar` to your Java installation's security policy location. _NOTE: On Mac OS 10.13.3 using the default Oracle JDK installation location, this can be found at `/Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/jre/lib/security/policy/unlimited`_
 
